@@ -1,0 +1,74 @@
+body{
+	background: url('Background.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin-top:3em;
+}
+.image{
+	width:10%;
+	border-radius:100px;
+	border: 4px dashed brown;
+}
+h1{
+	border: 4px solid brown;
+	padding:20px;
+	background-color:white;
+	margin-left:12em;
+	margin-right:12em;
+}
+h1,h3{
+	color:brown;
+}
+.about{
+	background:white;
+	margin-top:4em;
+	margin-left:3em;
+	position:absolute;
+	border: 4px solid brown;
+	text-align: center;
+	width:20%;
+	height:10%;
+}
+.about:hover{
+	text-decoration:underline;
+}
+.resume{
+	background:white;
+	margin-top:4em;
+	margin-left:24em;
+	position:absolute;
+	border: 4px solid brown;
+	text-align: center;
+	width:20%;
+	height:10%;
+}
+.resume:hover{
+	text-decoration:underline;
+}
+.music{
+	background:white;
+	margin-top:4em;
+	margin-left:45em;
+	position:absolute;
+	border: 4px solid brown;
+	text-align: center;
+	width:20%;
+	height:10%;
+}
+.music:hover{
+	text-decoration:underline;
+}
+.film{
+	background:white;
+	margin-top:4em;
+	margin-left:66em;
+	position:absolute;
+	border: 4px solid brown;
+	text-align: center;
+	width:20%;
+	height:10%;
+}
+.film:hover{
+	text-decoration:underline;
+}
