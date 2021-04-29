@@ -1,0 +1,61 @@
+body{
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin:80px;
+}
+h1{
+	background-color:white;
+	font-family:Georgia;
+	text-align:center;
+	margin-top:3em;
+	font-size:25px;
+	word-spacing:5px;
+	letter-spacing:3px;
+	border:5px solid black;
+	padding:20px;
+	margin-left:400px;
+	margin-right:400px;
+}
+.video{
+	float:right;
+	margin-top:-250px;
+	background-color:white;
+}
+.description{
+	background-color:white;
+	float:left;
+	margin-top:10px;
+	margin-right:300px;
+	text-align:justify;
+	border:4px solid black;
+	padding:20px;
+}
+h4{
+	font-family:Georgia;
+}
+p{
+	font-family:Calibri;
+	font-size:14px;
+}
+h3{
+	background-color:white;
+	border: 4px solid black;
+	color:black;
+	padding:20px;
+	text-align:center;
+}
+a{
+	float:left;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+.tv{
+	margin-left: 800px;
+}
+.link{
+	margin-left: 1000px;
+}

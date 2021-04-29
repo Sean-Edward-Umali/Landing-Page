@@ -1,0 +1,55 @@
+body{
+	background-image: url('background2.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin:80px;
+}h1{
+	background-color:white;
+	font-family:Georgia;
+	text-align:center;
+	margin-top:3em;
+	font-size:25px;
+	word-spacing:5px;
+	letter-spacing:3px;
+	border:5px solid black;
+	padding:20px;
+	margin-left:400px;
+	margin-right:400px;
+}
+.description{
+	background-color:white;
+	float:left;
+	margin-top:10px;
+	margin-left:300px;
+	text-align:justify;
+	border:4px solid black;
+	padding:20px;
+}
+.video{
+	background-color:white;
+	border:4px solid black;
+	float:left;
+	margin-top:-240px;
+}
+.video2{
+	background-color:white;
+	float:left;
+	margin-top:-250px;
+	border:4px solid black;
+}
+h3{
+	background-color:white;
+	border: 4px solid black;
+	color:black;
+	padding:20px;
+	text-align:center;
+}
+a{
+	float:left;
+	text-decoration:none;
+	margin-left: 1000px;
+}
+a:hover{
+	text-decoration:underline;
+}
