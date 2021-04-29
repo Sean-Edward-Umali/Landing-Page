@@ -1,0 +1,63 @@
+body{
+	background: url('background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin:80px;
+}
+header{
+	background-color:#c1e1ec;
+	font-family:Georgia;
+	text-align:center;
+	margin-top:3em;
+	font-size:25px;
+	word-spacing:5px;
+	letter-spacing:3px;
+	border:5px solid black;
+	padding:20px;
+	margin-left:450px;
+	margin-right:450px;
+}
+h2{
+	background-color:#c1e1ec;
+	border:4px solid black;
+	text-align:center;
+	padding:20px;
+	margin-left:400px;
+	margin-right:400px;
+}
+h2,h4{
+	font-family:Georgia;
+}
+h3{
+	background-color:#c1e1ec;
+	border: 4px solid black;
+	color:black;
+	margin-left: 53.41880341880342em;
+	padding:20px;
+	text-align:center;
+}
+a{
+	float:left;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+img{
+	width:200px;
+	height:200px;
+	padding:20px;
+}
+img:hover{
+	opacity:0.5;
+}
+blockquote{
+	background-color:#c1e1ec;
+	text-align:justify;
+	font-family:Calibri;
+}
+.music{
+	background-color:#c1e1ec;
+	border:4px solid black;
+}
